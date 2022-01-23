@@ -1,0 +1,14 @@
+{
+    "companyName": "Your Company",
+    "copyright": "Copyright",
+    "topHeader": {
+        "enabled": true,
+        "pitch": "Limited Period Offer: ",
+        "text": {
+            "mobile": "25% off on all products",
+            "desktop": "Get up to 25% off on all products & more offers"
+        },
+        "explore": "Explore",
+        "exploreLink": "/offers"
+    }
+}
